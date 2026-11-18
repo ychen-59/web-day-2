@@ -1,0 +1,12 @@
+profile.html:
+
+1. background-color: #0f172a
+2. .title; color: #38bdf8
+3. #0284c7
+
+
+event.html:
+
+4. border: 2px solid #ec4899; magenta
+5. font-size: 1.8rem
+6. border-radius: 20px
